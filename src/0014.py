@@ -13,7 +13,7 @@ def cal_length_chain(number, number_length_dict):
 
 
 def gen_number_owns_longest_chain(upper_bound):
-    number_length_dict = {1:1}
+    number_length_dict = {1: 1}
     maximum_length = 0
     maximum_cor_number = 0
 

@@ -1,5 +1,4 @@
 import math
-from functools import reduce
 
 
 def read_sequence_from_file(filename):
